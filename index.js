@@ -1,7 +1,7 @@
 import consola from 'consola';
 
 async function main() {
-	const ans = await consola.prompt('Dev', {
+	await consola.prompt('Choose alphabet', {
 		type: 'multiselect',
 		options: [
 			{ value: 'a', label: 'a' },
