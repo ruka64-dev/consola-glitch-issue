@@ -1,0 +1,15 @@
+{
+	"name": "select-glitch",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "ruka64-dev",
+	"type": "module",
+	"dependencies": {
+		"consola": "^3.3.3"
+	}
+}
